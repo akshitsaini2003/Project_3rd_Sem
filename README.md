@@ -1,2 +1,2 @@
-# Project_3rd_Sem
-Amazon Clone
+# Project-1_3rd_Sem
+Amazon Clone made using HTML and CSS
